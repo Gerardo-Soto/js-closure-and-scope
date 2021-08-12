@@ -1,0 +1,19 @@
+{
+  "name": "js-closure-and-scope",
+  "version": "0.0.0",
+  "description": "test scope and closure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gerardo-Soto/js-closure-and-scope.git"
+  },
+  "author": "gerardo.8.soto@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gerardo-Soto/js-closure-and-scope/issues"
+  },
+  "homepage": "https://github.com/Gerardo-Soto/js-closure-and-scope#readme"
+}
