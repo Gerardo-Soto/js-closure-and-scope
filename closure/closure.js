@@ -32,3 +32,18 @@ myMoneyBox(8);
 myMoneyBox(3);
 
 
+// ejemplo con la familia
+
+const papa = (nuevoHijo) => {
+    var cantidadDeHijos = 0;
+    const crearHijo = (nuevoHijo) => {
+        cantidadDeHijos += nuevoHijo;
+        console.log(`Cantidad de hijos: ${cantidadDeHijos}`);
+    }
+    return crearHijo;
+}
+
+let traerHijosAlMundo = papa();
+
+traerHijosAlMundo(1);
+traerHijosAlMundo(3);
